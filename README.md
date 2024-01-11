@@ -1,7 +1,7 @@
 # decision_tree_classifier
 A decision tree classifier built from scratch utilizing pseudo-code provided from "Fundamental Algorithms in Machine Learning Systems" lecture. The decision tree classifier is written in Python, and utilizes Gini Index, Information Gain, and Gain Ratio to produce decision trees for each metric. An accuracy score is also computed for each decision tree, reflecting each decision tree's performance for each metric.
 
-Algorithm also utilizes the pandas library for interpreting datasets in .csv file format. Repository includes source code and all datasts used for testing.
+Algorithm also utilizes the pandas library for interpreting datasets in .csv file format. Repository includes source code, all datasts used for testing, and a report about the classifier and its effectiveness.
 
 Important takeaways:
   - Collaborated with a classmate using Google Colab for efficient work.
